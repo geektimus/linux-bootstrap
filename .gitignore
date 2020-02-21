@@ -1,0 +1,5 @@
+.gnupg
+.cache
+*.log
+*.log.old
+.bash_history
