@@ -1,0 +1,1 @@
+.ssh/github_rsa filter=git-crypt diff=git-crypt
