@@ -1,5 +1,5 @@
 [user]
-    signingkey = 9D92C3C7850D850C
+    signingkey = 0x9D92C3C7850D850C
     name = Geektimus
     email = alexander.kno+github@gmail.com
 [core]
@@ -69,7 +69,6 @@
   
   # Search for files
   f = "!git ls-files | grep --color -i"
-  
 
   # How many commits per author
   who = shortlog -n -s --no-merges
@@ -90,3 +89,5 @@
 [url "git@scm.starbucks.com:scpprd"]
     insteadOf = git@github.com:scpprd
     insteadOf = https://github.com/scpprd
+[gpg]
+	program = gpg2
