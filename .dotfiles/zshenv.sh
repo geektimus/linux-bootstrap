@@ -1,7 +1,7 @@
 export USERBIN=$HOME/.bin
 export PATH=$PATH:$USERBIN
 
-export JAVA_HOME=/usr/local/share/development/java/latest
+export JAVA_HOME=/usr/lib/jvm/default
 export PATH=$PATH:$JAVA_HOME/bin
 
 export SBT_HOME=/usr/local/share/development/sbt/latest

@@ -91,3 +91,4 @@ tags
 .zshrc
 .zshenv
 *.zwc
+.bin
